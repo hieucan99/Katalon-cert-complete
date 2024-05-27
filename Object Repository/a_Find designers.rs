@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Find designers</name>
+   <tag></tag>
+   <elementGuidId>8fd783e2-284a-45bd-8fbc-402763912332</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='tags-show']/div/div[2]/nav/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad35e29f-7780-4c2b-9f45-fb39d2d7ef01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nav-event-clicked</name>
+      <type>Main</type>
+      <value>Hire Designers</value>
+      <webElementGuid>d8603c80-7c85-4bfd-91c3-3be8ff4d643c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hiring</value>
+      <webElementGuid>cccf4ab0-7913-432e-ad53-349e7d9c4b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find designers</value>
+      <webElementGuid>2681934d-841f-4382-8f06-b602f789896e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tags-show&quot;)/div[@class=&quot;nav-v2&quot;]/div[@class=&quot;nav-v2__wrapper&quot;]/nav[@class=&quot;nav-v2-main&quot;]/div[@class=&quot;nav-v2-main__wrapper&quot;]/ul[@class=&quot;nav-v2-main__list&quot;]/li[@class=&quot;nav-v2-main__item nav-v2-main__item--sub-nav&quot;]/a[1]</value>
+      <webElementGuid>5d63020d-74c9-4409-9f44-fb60cd0546dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='tags-show']/div/div[2]/nav/div/ul/li/a</value>
+      <webElementGuid>16b330f0-9974-4dff-af7c-823f278881dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Find designers')]</value>
+      <webElementGuid>42fbd87d-f4ef-4b72-98b4-2661f9bc8ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quickly find your next designer'])[1]/preceding::a[1]</value>
+      <webElementGuid>e63e05a9-3c5a-4a3d-9251-1716536a3e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find designers']/parent::*</value>
+      <webElementGuid>8180c3a7-75db-4769-ad68-e5f47523607a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hiring')]</value>
+      <webElementGuid>f2d3ec35-4521-48c0-956c-1015225ca8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>e0c6af5f-438d-4fbe-8858-c48fcb63c47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hiring' and (text() = 'Find designers' or . = 'Find designers')]</value>
+      <webElementGuid>3f2b1682-f3aa-42bd-900c-9f61138b2c27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

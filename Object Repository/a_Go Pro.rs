@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go Pro</name>
+   <tag></tag>
+   <elementGuidId>10e7ff1f-fcac-4d2d-9635-1d659a019b7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='jobs-new-project-board']/div/div[2]/nav/div/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2775f004-017e-4940-b0db-73d52034ef5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nav-event-clicked</name>
+      <type>Main</type>
+      <value>Go Pro</value>
+      <webElementGuid>f1b41960-0a76-4c69-8d6f-1da014c6f629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pro</value>
+      <webElementGuid>d1293507-802f-4604-ac23-17d0fdeccb96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go Pro</value>
+      <webElementGuid>7a712af3-2ae2-4f9f-b27d-62f8a861e4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jobs-new-project-board&quot;)/div[@class=&quot;nav-v2&quot;]/div[@class=&quot;nav-v2__wrapper&quot;]/nav[@class=&quot;nav-v2-main&quot;]/div[@class=&quot;nav-v2-main__wrapper&quot;]/ul[@class=&quot;nav-v2-main__list&quot;]/li[@class=&quot;nav-v2-main__item&quot;]/a[1]</value>
+      <webElementGuid>8eb2abee-91c9-4a8f-853c-53d5a52cd69e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='jobs-new-project-board']/div/div[2]/nav/div/ul/li[5]/a</value>
+      <webElementGuid>34b8a92c-9126-4412-b96b-c9b0fc812753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Go Pro')]</value>
+      <webElementGuid>67f47429-9c07-4068-ad22-a9a471d98af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs'])[1]/following::a[1]</value>
+      <webElementGuid>4fb473d2-0698-4fbd-8493-07caac480885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='with design professionals'])[1]/following::a[2]</value>
+      <webElementGuid>d0927af3-2e61-4554-9722-8e34f7f5d5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::a[1]</value>
+      <webElementGuid>841d69a0-b71f-48ce-b43e-6383c43cd0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/preceding::a[4]</value>
+      <webElementGuid>661ed884-5aff-41d1-858f-92d836f46538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go Pro']/parent::*</value>
+      <webElementGuid>0b9a86d2-81d7-47f1-8ab4-d381ebedf892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/pro')])[2]</value>
+      <webElementGuid>83fff1e6-0377-413b-866b-388835aa8164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>f3b5200c-064f-4428-b0a9-d7a49de0ba98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pro' and (text() = 'Go Pro' or . = 'Go Pro')]</value>
+      <webElementGuid>052e2651-9d44-42fc-b195-adbc420eb72f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

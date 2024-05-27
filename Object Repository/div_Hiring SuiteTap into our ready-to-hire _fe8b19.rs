@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hiring SuiteTap into our ready-to-hire _fe8b19</name>
+   <tag></tag>
+   <elementGuidId>20b5efe5-a7c1-40e6-82bf-91d8e948fb77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.framer-1gx7mnm-container > div.framer-2T0M0.framer-ytxT6.framer-5AEpc.framer-w9nuT.framer-ptnyjw.framer-v-ptnyjw > div.framer-1vz93ai > div.framer-16nzed4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subscribe']/div[2]/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11abd15a-aced-4461-8ab5-6a02cdeb257a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>framer-16nzed4</value>
+      <webElementGuid>87c321cd-58a1-4ebc-beae-9847b9f74b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hiring SuiteTap into our ready-to-hire community of top designers with our seamless hiring solution.</value>
+      <webElementGuid>c773f2a5-9ef8-420f-9b6c-279651aa560b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscribe&quot;)/div[@class=&quot;ssr-variant hidden-z3uksi hidden-1w06yzo hidden-16f4sdh&quot;]/div[@class=&quot;framer-1gx7mnm-container&quot;]/div[@class=&quot;framer-2T0M0 framer-ytxT6 framer-5AEpc framer-w9nuT framer-ptnyjw framer-v-ptnyjw&quot;]/div[@class=&quot;framer-1vz93ai&quot;]/div[@class=&quot;framer-16nzed4&quot;]</value>
+      <webElementGuid>150364be-6d5f-436c-b779-23f4c304e103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subscribe']/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>a664ec25-8e55-4731-b317-40e73d578034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post a job'])[2]/following::div[6]</value>
+      <webElementGuid>4798185d-6e9d-476c-9847-69e7c66712e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$5/day'])[2]/following::div[28]</value>
+      <webElementGuid>22db6e54-f7af-4ddc-a570-fe8b3e0eea16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$10/day'])[2]/preceding::div[3]</value>
+      <webElementGuid>12977fc3-af5d-4214-b6f4-b24cccbf25e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>3c141889-bcab-47eb-ab1a-6346bb8b1b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hiring SuiteTap into our ready-to-hire community of top designers with our seamless hiring solution.' or . = 'Hiring SuiteTap into our ready-to-hire community of top designers with our seamless hiring solution.')]</value>
+      <webElementGuid>5def1e58-7bfa-41d0-953c-f72b07b76649</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

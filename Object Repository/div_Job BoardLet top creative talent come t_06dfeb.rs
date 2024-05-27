@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job BoardLet top creative talent come t_06dfeb</name>
+   <tag></tag>
+   <elementGuidId>2394dc0a-7685-41b1-b365-5132ed90b16f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.framer-1gx7mnm-container > div.framer-2T0M0.framer-ytxT6.framer-5AEpc.framer-w9nuT.framer-ptnyjw.framer-v-ptnyjw > div.framer-15w9a3i > div.framer-1ykkx55</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subscribe']/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc454e83-14ae-4e07-beb3-cdad90a4ce0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>framer-1ykkx55</value>
+      <webElementGuid>85396b62-6cd2-4dd5-b858-54f13d42c0bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job BoardLet top creative talent come to you by posting your listing on #1 design job board.</value>
+      <webElementGuid>2f534c9b-1dce-4e42-a522-279fdbe43b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscribe&quot;)/div[@class=&quot;ssr-variant hidden-z3uksi hidden-1w06yzo hidden-16f4sdh&quot;]/div[@class=&quot;framer-1gx7mnm-container&quot;]/div[@class=&quot;framer-2T0M0 framer-ytxT6 framer-5AEpc framer-w9nuT framer-ptnyjw framer-v-ptnyjw&quot;]/div[@class=&quot;framer-15w9a3i&quot;]/div[@class=&quot;framer-1ykkx55&quot;]</value>
+      <webElementGuid>b30fa7ee-20e4-4b00-aadd-d343b3c5b760</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subscribe']/div[2]/div/div/div/div</value>
+      <webElementGuid>1303de0d-b4a6-4734-8bc0-4e23183a85a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find your next creative professional today!'])[1]/following::div[5]</value>
+      <webElementGuid>d7cc3469-6633-4ad8-b552-dd50edb03b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why brands choose Dribbble to hire design talent'])[1]/following::div[39]</value>
+      <webElementGuid>6b999e40-5c97-44dd-b9d7-e0efc10c90a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$5/day'])[2]/preceding::div[3]</value>
+      <webElementGuid>9333878b-c1e4-4471-9e45-ff4d09efce02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>f6f7a5bc-c439-44b7-97c0-e5cacfad235c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Job BoardLet top creative talent come to you by posting your listing on #1 design job board.' or . = 'Job BoardLet top creative talent come to you by posting your listing on #1 design job board.')]</value>
+      <webElementGuid>7c262c60-8929-447e-b62c-9de31915b223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
