@@ -23,3 +23,28 @@ WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
 WebUI.click(findTestObject('Object Repository/a_Make Appointment'))
 
+WebUI.doubleClick(findTestObject('Object Repository/input_Demo account_form-control'))
+
+WebUI.click(findTestObject('Object Repository/input_Demo account_form-control'))
+
+WebUI.setText(findTestObject('Object Repository/input_Username_username'), 'John Doe')
+
+WebUI.setText(findTestObject('Object Repository/input_Demo account_form-control_1'), 'ThisIsNotAPassword')
+
+WebUI.doubleClick(findTestObject('Object Repository/input_Demo account_form-control_1'))
+
+WebUI.click(findTestObject('Object Repository/input_Demo account_form-control_1'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+WebUI.click(findTestObject('Object Repository/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/h2_Make Appointment'))
+
+//Login success
+
+WebUI.click(findTestObject('Object Repository/label_Medicaid'))
+
+WebUI.click(findTestObject('Object Repository/label_None'))
+
+WebUI.closeBrowser()
