@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite APi" time="6.15" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite APi" tests="1" failures="0" errors="0" time="6.15" skipped="0" timestamp="27-05-2024T19:36:21" hostname="17520 - MacProVip" id="Test Suites/Test Suite APi">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Automation_Testing\\katalon\\Katalon-cert-complete\\Reports\\20240527_193604\\Test Suite APi\\20240527_193607"/>
+         <property name="logFiles" value="E:\\Automation_Testing\\katalon\\Katalon-cert-complete\\Reports\\20240527_193604\\Test Suite APi\\20240527_193607\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="17520 - MacProVip"/>
+         <property name="hostAddress" value="192.168.102.54"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/API/APi01" time="5.821" classname="Test Cases/API/APi01" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:36:22 - [TEST_CASE][PASSED] - Test Cases/API/APi01: Test Cases/API/APi01
+
+27-05-2024T19:36:22 - [TEST_STEP][PASSED] - sendRequest(findTestObject("getUser")): Send request successfully
+
+27-05-2024T19:36:27 - [MESSAGE][INFO] - HAR: E:\Automation_Testing\katalon\Katalon-cert-complete\Reports\20240527_193604\Test Suite APi\20240527_193607\requests\main\0.har
+
+27-05-2024T19:36:27 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-05-2024T19:36:21 - [TEST_SUITE][PASSED] - Test Suite APi: Test Cases/API/APi01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

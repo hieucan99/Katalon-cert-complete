@@ -1,0 +1,69 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite Visual,Chrome 125.0.0.0,,,27-05-2024 19:20:31,27-05-2024 19:22:08,1m - 37.834s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC21,Chrome 125.0.0.0,,,27-05-2024 19:20:31,27-05-2024 19:21:03,31.965s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:20:32,27-05-2024 19:20:38,6.425s,PASSED
+"navigateToUrl(""https://dribbble.com/tags/test_page"")",Chrome 125.0.0.0,,,27-05-2024 19:20:38,27-05-2024 19:20:42,3.794s,PASSED
+"click(findTestObject(""Object Repository/a_Find designers""))",Chrome 125.0.0.0,,,27-05-2024 19:20:42,27-05-2024 19:21:02,19.852s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:02,27-05-2024 19:21:03,1.273s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC22,Chrome 125.0.0.0,,,27-05-2024 19:21:03,27-05-2024 19:21:08,4.350s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:04,27-05-2024 19:21:05,1.624s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:05,27-05-2024 19:21:07,1.870s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:07,27-05-2024 19:21:08,0.360s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC23,Chrome 125.0.0.0,,,27-05-2024 19:21:08,27-05-2024 19:21:15,6.847s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:08,27-05-2024 19:21:10,1.717s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:10,27-05-2024 19:21:10,0.625s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asdasdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:10,27-05-2024 19:21:13,2.839s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:13,27-05-2024 19:21:14,1.018s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:14,27-05-2024 19:21:15,0.313s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC24,Chrome 125.0.0.0,,,27-05-2024 19:21:15,27-05-2024 19:21:22,6.951s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:15,27-05-2024 19:21:17,2.616s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:17,27-05-2024 19:21:18,0.449s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""as2dadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:18,27-05-2024 19:21:20,2.495s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:20,27-05-2024 19:21:21,0.942s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:21,27-05-2024 19:21:22,0.334s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC25,Chrome 125.0.0.0,,,27-05-2024 19:21:22,27-05-2024 19:21:31,9.949s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:22,27-05-2024 19:21:24,2.512s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:24,27-05-2024 19:21:26,1.820s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asda234234sdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:26,27-05-2024 19:21:27,1.245s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:27,27-05-2024 19:21:31,3.906s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:31,27-05-2024 19:21:31,0.342s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC26,Chrome 125.0.0.0,,,27-05-2024 19:21:31,27-05-2024 19:21:38,6.990s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:32,27-05-2024 19:21:34,2.124s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:34,27-05-2024 19:21:36,2.303s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asda222234234sdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:36,27-05-2024 19:21:37,1.134s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:37,27-05-2024 19:21:38,0.871s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:38,27-05-2024 19:21:38,0.322s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC27,Chrome 125.0.0.0,,,27-05-2024 19:21:38,27-05-2024 19:21:45,6.790s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:39,27-05-2024 19:21:40,1.912s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:40,27-05-2024 19:21:43,2.142s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asda23213124234sdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:43,27-05-2024 19:21:44,1.335s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:44,27-05-2024 19:21:45,0.983s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:45,27-05-2024 19:21:45,0.342s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC28,Chrome 125.0.0.0,,,27-05-2024 19:21:45,27-05-2024 19:21:53,7.992s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:45,27-05-2024 19:21:47,2.050s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:47,27-05-2024 19:21:51,3.527s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asd2a234234sdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:51,27-05-2024 19:21:52,1.099s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:52,27-05-2024 19:21:53,0.874s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:21:53,27-05-2024 19:21:53,0.350s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC29,Chrome 125.0.0.0,,,27-05-2024 19:21:53,27-05-2024 19:22:01,7.379s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:21:53,27-05-2024 19:21:55,1.525s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:21:55,27-05-2024 19:21:57,1.987s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asda2342344234sdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:21:57,27-05-2024 19:21:59,1.605s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:21:59,27-05-2024 19:22:00,0.953s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:22:00,27-05-2024 19:22:01,1.134s,PASSED
+,,,,,,,
+Test Cases/Web/TC 21 - 30/TC30,Chrome 125.0.0.0,,,27-05-2024 19:22:01,27-05-2024 19:22:08,7.693s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,27-05-2024 19:22:01,27-05-2024 19:22:03,2.121s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 125.0.0.0,,,27-05-2024 19:22:03,27-05-2024 19:22:03,0.331s,PASSED
+"setText(findTestObject(""Object Repository/textarea_ng nhp_q""), ""asda235554234sdadadasdasd"")",Chrome 125.0.0.0,,,27-05-2024 19:22:03,27-05-2024 19:22:07,3.591s,PASSED
+"click(findTestObject(""Object Repository/input_Demo account_form-control""))",Chrome 125.0.0.0,,,27-05-2024 19:22:07,27-05-2024 19:22:08,0.789s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,27-05-2024 19:22:08,27-05-2024 19:22:08,0.790s,PASSED

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite Visual" time="97.786" tests="10" failures="0" errors="0">
+   <testsuite name="Test Suite Visual" tests="10" failures="0" errors="0" time="97.786" skipped="0" timestamp="27-05-2024T19:20:32" hostname="17520 - MacProVip" id="Test Suites/Test Suite Visual">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Automation_Testing\\katalon\\Katalon-cert-complete\\Reports\\20240527_192020\\Test Suite Visual\\20240527_192020"/>
+         <property name="logFiles" value="E:\\Automation_Testing\\katalon\\Katalon-cert-complete\\Reports\\20240527_192020\\Test Suite Visual\\20240527_192020\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="17520 - MacProVip"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.102.54"/>
+         <property name="sessionId" value="457aba81c244598a4223e0022cc943e6"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC21" time="36.984" classname="Test Cases/Web/TC 21 - 30/TC21" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:20:32 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC21: Test Cases/Web/TC 21 - 30/TC21
+
+27-05-2024T19:20:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:20:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:20:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:20:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:20:41 - [TEST_STEP][PASSED] - navigateToUrl("https://dribbble.com/tags/test_page"): Navigate to 'https://dribbble.com/tags/test_page' successfully
+
+27-05-2024T19:20:43 - [MESSAGE][PASSED] - Navigate to 'https://dribbble.com/tags/test_page' successfully
+
+27-05-2024T19:20:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/a_Find designers")): Object: 'Object Repository/a_Find designers' is clicked on
+
+27-05-2024T19:21:09 - [MESSAGE][PASSED] - Object: 'Object Repository/a_Find designers' is clicked on
+
+27-05-2024T19:21:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC22" time="4.349" classname="Test Cases/Web/TC 21 - 30/TC22" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:09 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC22: Test Cases/Web/TC 21 - 30/TC22
+
+27-05-2024T19:21:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:11 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:13 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC23" time="6.657" classname="Test Cases/Web/TC 21 - 30/TC23" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:14 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC23: Test Cases/Web/TC 21 - 30/TC23
+
+27-05-2024T19:21:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:16 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asdasdadadasdasd"): Text 'asdasdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:19 - [MESSAGE][PASSED] - Text 'asdasdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:20 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC24" time="6.113" classname="Test Cases/Web/TC 21 - 30/TC24" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:20 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC24: Test Cases/Web/TC 21 - 30/TC24
+
+27-05-2024T19:21:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:22 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:24 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "as2dadasdasd"): Text 'as2dadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:25 - [MESSAGE][PASSED] - Text 'as2dadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:26 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC25" time="6.833" classname="Test Cases/Web/TC 21 - 30/TC25" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:26 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC25: Test Cases/Web/TC 21 - 30/TC25
+
+27-05-2024T19:21:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:28 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:29 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asda234234sdadadasdasd"): Text 'asda234234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:32 - [MESSAGE][PASSED] - Text 'asda234234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:33 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC26" time="7.569" classname="Test Cases/Web/TC 21 - 30/TC26" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:33 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC26: Test Cases/Web/TC 21 - 30/TC26
+
+27-05-2024T19:21:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:38 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asda222234234sdadadasdasd"): Text 'asda222234234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:39 - [MESSAGE][PASSED] - Text 'asda222234234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:40 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC27" time="6.877" classname="Test Cases/Web/TC 21 - 30/TC27" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:41 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC27: Test Cases/Web/TC 21 - 30/TC27
+
+27-05-2024T19:21:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:43 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:45 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asda23213124234sdadadasdasd"): Text 'asda23213124234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:46 - [MESSAGE][PASSED] - Text 'asda23213124234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:47 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC28" time="7.31" classname="Test Cases/Web/TC 21 - 30/TC28" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:48 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC28: Test Cases/Web/TC 21 - 30/TC28
+
+27-05-2024T19:21:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:49 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:52 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asd2a234234sdadadasdasd"): Text 'asd2a234234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:53 - [MESSAGE][PASSED] - Text 'asd2a234234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:21:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:54 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:21:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:21:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC29" time="5.909" classname="Test Cases/Web/TC 21 - 30/TC29" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:21:55 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC29: Test Cases/Web/TC 21 - 30/TC29
+
+27-05-2024T19:21:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:21:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:21:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:21:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:21:57 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:59 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:21:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asda2342344234sdadadasdasd"): Text 'asda2342344234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:22:00 - [MESSAGE][PASSED] - Text 'asda2342344234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:22:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:22:01 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:22:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:22:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC 21 - 30/TC30" time="8.551" classname="Test Cases/Web/TC 21 - 30/TC30" status="PASSED">
+         <system-out><![CDATA[27-05-2024T19:22:01 - [TEST_CASE][PASSED] - Test Cases/Web/TC 21 - 30/TC30: Test Cases/Web/TC 21 - 30/TC30
+
+27-05-2024T19:22:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-05-2024T19:22:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-05-2024T19:22:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-05-2024T19:22:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-05-2024T19:22:04 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:22:07 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+27-05-2024T19:22:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/textarea_ng nhp_q"), "asda235554234sdadadasdasd"): Text 'asda235554234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:22:08 - [MESSAGE][PASSED] - Text 'asda235554234sdadadasdasd' is set on object 'Object Repository/textarea_ng nhp_q'
+
+27-05-2024T19:22:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/input_Demo account_form-control")): Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Demo account_form-control' is clicked on
+
+27-05-2024T19:22:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-05-2024T19:22:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-05-2024T19:20:32 - [TEST_SUITE][PASSED] - Test Suite Visual: Test Cases/Web/TC 21 - 30/TC30]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
